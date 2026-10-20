@@ -41,9 +41,6 @@ Desktop Operations · Computer Science Enthusiast · CSGO Player
 | --- | --- | --- | --- | --- |
 | [sitxiaochen.github.io](https://github.com/sitxiaochen/sitxiaochen.github.io) | — | HTML | 0 | 2026-07-29 |
 | [sitxiaochen](https://github.com/sitxiaochen/sitxiaochen) | — | — | 1 | 2023-12-28 |
-| [genshin-sign-helper](https://github.com/sitxiaochen/genshin-sign-helper) | 原神签到助手 | — | 0 | 2022-08-21 |
-| [genshin-sign](https://github.com/sitxiaochen/genshin-sign) | 原神自动签到 | — | 0 | 2022-02-14 |
-| [GenshinDailyHelper](https://github.com/sitxiaochen/GenshinDailyHelper) | miHoYo APP Genshin Impact daily bonus by Github Action 利用.Net5 和 Gith… | — | 0 | 2021-07-20 |
 <!-- RECENT_REPOS:END -->
 
 ---
