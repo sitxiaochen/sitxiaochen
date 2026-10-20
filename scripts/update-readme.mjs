@@ -24,6 +24,30 @@ const MAX_EVENTS = 5;
 const REPOS_BLOCK = 'RECENT_REPOS';
 const ACTIVITY_BLOCK = 'RECENT_ACTIVITY';
 
+// Repos that must never appear on the profile README.
+// These were deleted by the owner but still surface via the API, because
+// GitHub blocks them for ToS reasons and they cannot be purged via API.
+const DEFAULT_EXCLUDED = [
+  'genshin-sign-helper',
+  'genshin-sign',
+  'genshindailyhelper',
+  'genshindailyhelper-scf',
+  'bilibilitool',
+  'wyy-action',
+].map((s) => s.toLowerCase());
+
+const EXCLUDED_REPOS = new Set([
+  ...DEFAULT_EXCLUDED,
+  ...(process.env.EXCLUDED_REPOS || '')
+    .split(',')
+    .map((s) => s.trim().toLowerCase())
+    .filter(Boolean),
+]);
+
+function isExcluded(name) {
+  return EXCLUDED_REPOS.has(String(name ?? '').toLowerCase());
+}
+
 /** Fetch JSON from the GitHub API, returning null on any failure. */
 async function fetchJson(url, token) {
   try {
@@ -72,7 +96,10 @@ function renderRepos(repos) {
   if (!Array.isArray(repos) || repos.length === 0) {
     return '_暂无公开仓库 / No public repos yet._';
   }
-  const rows = repos.slice(0, MAX_REPOS).map((r) => {
+  const rows = repos
+    .filter((r) => !isExcluded(r?.name))
+    .slice(0, MAX_REPOS)
+    .map((r) => {
     const name = safeCell(r.name);
     const desc = safeCell(truncate(r.description, 70)) || '—';
     const lang = safeCell(r.language) || '—';
@@ -133,6 +160,7 @@ function renderActivity(events) {
     return '_暂无公开动态 / No public activity yet._';
   }
   return events
+    .filter((ev) => !isExcluded(ev?.repo?.name?.split('/')[1] ?? ev?.repo?.name))
     .slice(0, MAX_EVENTS)
     .map((ev) => `- ${describeEvent(ev)}`)
     .join('\n');

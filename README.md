@@ -39,8 +39,8 @@ Desktop Operations · Computer Science Enthusiast · CSGO Player
 <!-- RECENT_REPOS:START -->
 | 仓库 Repo | 简介 Description | 语言 Lang | ⭐ | 更新 Updated |
 | --- | --- | --- | --- | --- |
+| [sitxiaochen](https://github.com/sitxiaochen/sitxiaochen) | — | JavaScript | 1 | 2026-10-20 |
 | [sitxiaochen.github.io](https://github.com/sitxiaochen/sitxiaochen.github.io) | — | HTML | 0 | 2026-07-29 |
-| [sitxiaochen](https://github.com/sitxiaochen/sitxiaochen) | — | — | 1 | 2023-12-28 |
 <!-- RECENT_REPOS:END -->
 
 ---
@@ -48,7 +48,7 @@ Desktop Operations · Computer Science Enthusiast · CSGO Player
 ## 最近动态 / Recent Activity
 
 <!-- RECENT_ACTIVITY:START -->
-_暂无公开动态 / No public activity yet._
+- 推送 0 个提交到 [sitxiaochen/sitxiaochen](https://github.com/sitxiaochen/sitxiaochen) / Pushed 0 commit(s) to [sitxiaochen/sitxiaochen](https://github.com/sitxiaochen/sitxiaochen)
 <!-- RECENT_ACTIVITY:END -->
 
 ---
