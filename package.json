@@ -1,0 +1,14 @@
+{
+  "name": "sitxiaochen-profile",
+  "version": "1.0.0",
+  "private": true,
+  "description": "GitHub profile README for sitxiaochen: bilingual intro, auto-updated GitHub activity blocks.",
+  "type": "module",
+  "scripts": {
+    "validate": "node scripts/validate.mjs",
+    "update": "node scripts/update-readme.mjs"
+  },
+  "devDependencies": {
+    "yaml": "^2.6.0"
+  }
+}
