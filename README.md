@@ -39,7 +39,9 @@ Desktop Operations · Computer Science Enthusiast · CSGO Player
 <!-- RECENT_REPOS:START -->
 | 仓库 Repo | 简介 Description | 语言 Lang | ⭐ | 更新 Updated |
 | --- | --- | --- | --- | --- |
-| [sitxiaochen](https://github.com/sitxiaochen/sitxiaochen) | — | JavaScript | 1 | 2026-10-24 |
+| [pi-agents](https://github.com/sitxiaochen/pi-agents) | — | — | 0 | 2026-10-26 |
+| [pi-agent](https://github.com/sitxiaochen/pi-agent) | — | PowerShell | 0 | 2026-10-26 |
+| [sitxiaochen](https://github.com/sitxiaochen/sitxiaochen) | — | JavaScript | 1 | 2026-10-25 |
 | [sitxiaochen.github.io](https://github.com/sitxiaochen/sitxiaochen.github.io) | — | HTML | 0 | 2026-07-29 |
 <!-- RECENT_REPOS:END -->
 
@@ -48,6 +50,9 @@ Desktop Operations · Computer Science Enthusiast · CSGO Player
 ## 最近动态 / Recent Activity
 
 <!-- RECENT_ACTIVITY:START -->
+- 推送 0 个提交到 [sitxiaochen/pi-agents](https://github.com/sitxiaochen/pi-agents) / Pushed 0 commit(s) to [sitxiaochen/pi-agents](https://github.com/sitxiaochen/pi-agents)
+- 推送 0 个提交到 [sitxiaochen/pi-agent](https://github.com/sitxiaochen/pi-agent) / Pushed 0 commit(s) to [sitxiaochen/pi-agent](https://github.com/sitxiaochen/pi-agent)
+- 在 [sitxiaochen/pi-agents](https://github.com/sitxiaochen/pi-agents) 新建 branch `main` / Created branch `main` in [sitxiaochen/pi-agents](https://github.com/sitxiaochen/pi-agents)
 - 推送 0 个提交到 [sitxiaochen/sitxiaochen](https://github.com/sitxiaochen/sitxiaochen) / Pushed 0 commit(s) to [sitxiaochen/sitxiaochen](https://github.com/sitxiaochen/sitxiaochen)
 - 推送 0 个提交到 [sitxiaochen/sitxiaochen](https://github.com/sitxiaochen/sitxiaochen) / Pushed 0 commit(s) to [sitxiaochen/sitxiaochen](https://github.com/sitxiaochen/sitxiaochen)
 <!-- RECENT_ACTIVITY:END -->
