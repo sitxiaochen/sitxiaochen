@@ -40,9 +40,9 @@ Desktop Operations · Computer Science Enthusiast · CSGO Player
 | 仓库 Repo | 简介 Description | 语言 Lang | ⭐ | 更新 Updated |
 | --- | --- | --- | --- | --- |
 | [sitxiaochen.github.io](https://github.com/sitxiaochen/sitxiaochen.github.io) | — | HTML | 0 | 2026-10-27 |
+| [sitxiaochen](https://github.com/sitxiaochen/sitxiaochen) | — | JavaScript | 1 | 2026-10-27 |
 | [pi-agent](https://github.com/sitxiaochen/pi-agent) | — | PowerShell | 0 | 2026-10-26 |
 | [pi-agents](https://github.com/sitxiaochen/pi-agents) | — | — | 0 | 2026-10-26 |
-| [sitxiaochen](https://github.com/sitxiaochen/sitxiaochen) | — | JavaScript | 1 | 2026-10-26 |
 <!-- RECENT_REPOS:END -->
 
 ---
@@ -50,11 +50,11 @@ Desktop Operations · Computer Science Enthusiast · CSGO Player
 ## 最近动态 / Recent Activity
 
 <!-- RECENT_ACTIVITY:START -->
-- 推送 0 个提交到 [sitxiaochen/pi-agent](https://github.com/sitxiaochen/pi-agent) / Pushed 0 commit(s) to [sitxiaochen/pi-agent](https://github.com/sitxiaochen/pi-agent)
-- 推送 0 个提交到 [sitxiaochen/pi-agents](https://github.com/sitxiaochen/pi-agents) / Pushed 0 commit(s) to [sitxiaochen/pi-agents](https://github.com/sitxiaochen/pi-agents)
-- 为 [heartleo/zlib](https://github.com/heartleo/zlib) 点星 / Starred [heartleo/zlib](https://github.com/heartleo/zlib)
-- 为 [zgx949/ai-pojia](https://github.com/zgx949/ai-pojia) 点星 / Starred [zgx949/ai-pojia](https://github.com/zgx949/ai-pojia)
-- 在 [sitxiaochen/sitxiaochen.github.io](https://github.com/sitxiaochen/sitxiaochen.github.io) 操作了 PR（labeled）/ labeled a pull request in [sitxiaochen/sitxiaochen.github.io](https://github.com/sitxiaochen/sitxiaochen.github.io)
+- 推送 0 个提交到 [sitxiaochen/sitxiaochen.github.io](https://github.com/sitxiaochen/sitxiaochen.github.io) / Pushed 0 commit(s) to [sitxiaochen/sitxiaochen.github.io](https://github.com/sitxiaochen/sitxiaochen.github.io)
+- 推送 0 个提交到 [sitxiaochen/sitxiaochen.github.io](https://github.com/sitxiaochen/sitxiaochen.github.io) / Pushed 0 commit(s) to [sitxiaochen/sitxiaochen.github.io](https://github.com/sitxiaochen/sitxiaochen.github.io)
+- 推送 0 个提交到 [sitxiaochen/sitxiaochen.github.io](https://github.com/sitxiaochen/sitxiaochen.github.io) / Pushed 0 commit(s) to [sitxiaochen/sitxiaochen.github.io](https://github.com/sitxiaochen/sitxiaochen.github.io)
+- 在 [sitxiaochen/sitxiaochen.github.io](https://github.com/sitxiaochen/sitxiaochen.github.io) 新建 branch `cms/posts/每日-cs-前沿与项目雷达·-2026-10-27` / Created branch `cms/posts/每日-cs-前沿与项目雷达·-2026-10-27` in [sitxiaochen/sitxiaochen.github.io](https://github.com/sitxiaochen/sitxiaochen.github.io)
+- 推送 0 个提交到 [sitxiaochen/sitxiaochen.github.io](https://github.com/sitxiaochen/sitxiaochen.github.io) / Pushed 0 commit(s) to [sitxiaochen/sitxiaochen.github.io](https://github.com/sitxiaochen/sitxiaochen.github.io)
 <!-- RECENT_ACTIVITY:END -->
 
 ---
