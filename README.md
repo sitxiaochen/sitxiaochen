@@ -39,8 +39,8 @@ Desktop Operations · Computer Science Enthusiast · CSGO Player
 <!-- RECENT_REPOS:START -->
 | 仓库 Repo | 简介 Description | 语言 Lang | ⭐ | 更新 Updated |
 | --- | --- | --- | --- | --- |
+| [sitxiaochen](https://github.com/sitxiaochen/sitxiaochen) | — | JavaScript | 1 | 2026-10-28 |
 | [sitxiaochen.github.io](https://github.com/sitxiaochen/sitxiaochen.github.io) | — | HTML | 0 | 2026-10-27 |
-| [sitxiaochen](https://github.com/sitxiaochen/sitxiaochen) | — | JavaScript | 1 | 2026-10-27 |
 | [pi-agent](https://github.com/sitxiaochen/pi-agent) | — | PowerShell | 0 | 2026-10-26 |
 | [pi-agents](https://github.com/sitxiaochen/pi-agents) | — | — | 0 | 2026-10-26 |
 <!-- RECENT_REPOS:END -->
@@ -51,9 +51,9 @@ Desktop Operations · Computer Science Enthusiast · CSGO Player
 
 <!-- RECENT_ACTIVITY:START -->
 - 推送 0 个提交到 [sitxiaochen/sitxiaochen.github.io](https://github.com/sitxiaochen/sitxiaochen.github.io) / Pushed 0 commit(s) to [sitxiaochen/sitxiaochen.github.io](https://github.com/sitxiaochen/sitxiaochen.github.io)
+- 为 [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) 点星 / Starred [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)
 - 推送 0 个提交到 [sitxiaochen/sitxiaochen.github.io](https://github.com/sitxiaochen/sitxiaochen.github.io) / Pushed 0 commit(s) to [sitxiaochen/sitxiaochen.github.io](https://github.com/sitxiaochen/sitxiaochen.github.io)
 - 推送 0 个提交到 [sitxiaochen/sitxiaochen.github.io](https://github.com/sitxiaochen/sitxiaochen.github.io) / Pushed 0 commit(s) to [sitxiaochen/sitxiaochen.github.io](https://github.com/sitxiaochen/sitxiaochen.github.io)
-- 在 [sitxiaochen/sitxiaochen.github.io](https://github.com/sitxiaochen/sitxiaochen.github.io) 新建 branch `cms/posts/每日-cs-前沿与项目雷达·-2026-10-27` / Created branch `cms/posts/每日-cs-前沿与项目雷达·-2026-10-27` in [sitxiaochen/sitxiaochen.github.io](https://github.com/sitxiaochen/sitxiaochen.github.io)
 - 推送 0 个提交到 [sitxiaochen/sitxiaochen.github.io](https://github.com/sitxiaochen/sitxiaochen.github.io) / Pushed 0 commit(s) to [sitxiaochen/sitxiaochen.github.io](https://github.com/sitxiaochen/sitxiaochen.github.io)
 <!-- RECENT_ACTIVITY:END -->
 
