@@ -39,7 +39,7 @@ Desktop Operations · Computer Science Enthusiast · CSGO Player
 <!-- RECENT_REPOS:START -->
 | 仓库 Repo | 简介 Description | 语言 Lang | ⭐ | 更新 Updated |
 | --- | --- | --- | --- | --- |
-| [sitxiaochen](https://github.com/sitxiaochen/sitxiaochen) | — | JavaScript | 1 | 2026-11-21 |
+| [sitxiaochen](https://github.com/sitxiaochen/sitxiaochen) | — | JavaScript | 1 | 2026-11-22 |
 | [sitxiaochen.github.io](https://github.com/sitxiaochen/sitxiaochen.github.io) | — | HTML | 0 | 2026-10-27 |
 | [pi-agent](https://github.com/sitxiaochen/pi-agent) | — | PowerShell | 0 | 2026-10-26 |
 | [pi-agents](https://github.com/sitxiaochen/pi-agents) | — | — | 0 | 2026-10-26 |
@@ -50,9 +50,9 @@ Desktop Operations · Computer Science Enthusiast · CSGO Player
 ## 最近动态 / Recent Activity
 
 <!-- RECENT_ACTIVITY:START -->
+- 为 [memoryoffish/film-director-skill-plugin](https://github.com/memoryoffish/film-director-skill-plugin) 点星 / Starred [memoryoffish/film-director-skill-plugin](https://github.com/memoryoffish/film-director-skill-plugin)
 - 推送 0 个提交到 [sitxiaochen/sitxiaochen.github.io](https://github.com/sitxiaochen/sitxiaochen.github.io) / Pushed 0 commit(s) to [sitxiaochen/sitxiaochen.github.io](https://github.com/sitxiaochen/sitxiaochen.github.io)
 - 为 [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) 点星 / Starred [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)
-- 推送 0 个提交到 [sitxiaochen/sitxiaochen.github.io](https://github.com/sitxiaochen/sitxiaochen.github.io) / Pushed 0 commit(s) to [sitxiaochen/sitxiaochen.github.io](https://github.com/sitxiaochen/sitxiaochen.github.io)
 - 推送 0 个提交到 [sitxiaochen/sitxiaochen.github.io](https://github.com/sitxiaochen/sitxiaochen.github.io) / Pushed 0 commit(s) to [sitxiaochen/sitxiaochen.github.io](https://github.com/sitxiaochen/sitxiaochen.github.io)
 - 推送 0 个提交到 [sitxiaochen/sitxiaochen.github.io](https://github.com/sitxiaochen/sitxiaochen.github.io) / Pushed 0 commit(s) to [sitxiaochen/sitxiaochen.github.io](https://github.com/sitxiaochen/sitxiaochen.github.io)
 <!-- RECENT_ACTIVITY:END -->
